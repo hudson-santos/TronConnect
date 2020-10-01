@@ -14,8 +14,6 @@
 <br>
  
 #### :computer: Comandos
-Para composição dos campos hash no Banco de Dados é utilizada a criptografia <a href="http://www.sha1-online.com" target="_blank">SHA1</a>.
-<br>
 
 **Windows 32 Bits**
 ```console
