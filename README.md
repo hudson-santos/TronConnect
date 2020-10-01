@@ -4,12 +4,12 @@
 
 #### :electron: Requisitos
 
-* **Node JS :** **https://nodejs.org/**
-* **Nativifier :** **https://github.com/jiahaog/nativefier**
+**Node JS :** **https://nodejs.org/**
+**Nativifier :** **https://github.com/jiahaog/nativefier**
 <br>
 
 #### :hammer: Ferramentas
-* **[Inno Setup](https://jrsoftware.org/isinfo.php)**
+**[Inno Setup](https://jrsoftware.org/isinfo.php)**
 <br>
  
 #### :computer: Comandos
