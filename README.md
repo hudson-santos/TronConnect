@@ -5,11 +5,12 @@
 #### :electron: Requisitos
 
 **Node JS :** **https://nodejs.org/**
+
 **Nativifier :** **https://github.com/jiahaog/nativefier**
 <br>
 
 #### :hammer: Ferramentas
-**[Inno Setup](https://jrsoftware.org/isinfo.php)**
+**Inno Setup :** **https://jrsoftware.org/isinfo.php**
 <br>
  
 #### :computer: Comandos
@@ -17,12 +18,14 @@ Para composição dos campos hash no Banco de Dados é utilizada a criptografia 
 <br>
 
 **Windows 32 Bits**
-
+```console
 nativefier --name "Tron Connect" http://connect.tron.com.br/#/coleta-coletiva -a ia32 --zoom 0.8 -i icon.ico
+```
 
 **Windows 64 Bits**
-
+```console
 nativefier --name "Tron Connect" http://connect.tron.com.br/#/coleta-coletiva -a x64 --zoom 0.8 -i icon.ico
+```
 
 ***
 
