@@ -17,12 +17,12 @@
 
 **Windows 32 Bits**
 ```
-nativefier --name "Tron Connect" https://connect.tron.com.br/#/coleta-coletiva -a ia32 --zoom 0.8 -i icon.ico
+nativefier --name "Tron Connect" URL_Tron_Connect -a ia32 --zoom 0.8 -i icon.ico
 ```
 
 **Windows 64 Bits**
 ```
-nativefier --name "Tron Connect" https://connect.tron.com.br/#/coleta-coletiva -a x64 --zoom 0.8 -i icon.ico
+nativefier --name "Tron Connect" URL_Tron_Connect -a x64 --zoom 0.8 -i icon.ico
 ```
 
 ***
