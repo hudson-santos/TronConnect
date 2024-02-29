@@ -1,4 +1,8 @@
 <p align="center">
+<b>PROJETO DESCONTINUADO - COMPILADOR NATIVEFIER NÃO É MAIS MANTIDO PELO DESENVOLVEDOR</b>
+</p>
+
+<p align="center">
 <b>Tron Connect - Batida Remota</b>
 </p>
 
